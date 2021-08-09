@@ -30,7 +30,7 @@ namespace ASEApp.Controllers
             _logger.LogDebug("ZBXXX : home path!");
             Console.WriteLine("ZBXXX : home path!");
 
-            return "Welcome to WebApp v6.0";
+            return "Welcome to WebApp v6.0 with git-local!!!";
         }
 
 
